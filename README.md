@@ -1,5 +1,7 @@
 # Oii! Eu sou Apoliana Lívia 
-
+ - 🎓 Estudante de Desenvolvimento de Sistemas 👩🏽‍💻
+ - Atualmente estou aprendendo um pouco de cada coisa desse maravilhoso 🌌 universo da programação 💻
+ - 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apolianalivia&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/apolianalivia/github-readme-stats)
 
