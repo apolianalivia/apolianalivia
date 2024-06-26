@@ -8,8 +8,8 @@
   <img align="center" alt="Apoli-Ja" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Apoli-HTML" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Apoli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Apoli-Gif" height="180" width="180" src="https://github.com/apolianalivia/apolianalivia/assets/159330898/3fb46b41-4a46-44bb-8994-ae349af4f2a9">
 
-</div>
 
 <div> 
   <a href="https://www.instagram.com/apoliana_livia"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,8 +18,4 @@
   
 </div>
  
- 
-
-https://github.com/apolianalivia/apolianalivia/assets/159330898/9165d6c1-3e22-4d03-9d32-00417c696334
-
 
