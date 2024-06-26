@@ -1,10 +1,6 @@
-# **Oii! Eu sou Apoliana Lívia** 
-| *Estudante de Desenvolvimento de Sistemas* 👩🏽‍💻         
-|  *Atualmente, estou aprendendo um pouco de cada coisa desse maravilhoso* 🌌 *universo da programação* 💻
-#
+# **Oii! Eu sou Apoliana Lívia, sou estudante de Desenvolvimento de Sistemas        
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apolianalivia&count_private=true&show_icons=true&theme=jolly&locale=pt-br&include_all_commits=true)](https://github.com/apolianalivia/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apolianalivia&theme=jolly&locale=pt-br)](https://github.com/apolianalivia/github-readme-stats)
-## Linguagens
  <div style="display: inline_block"><br>
   <img align="center" alt="Apoli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Apoli-Ja" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
