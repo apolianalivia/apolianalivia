@@ -1,4 +1,4 @@
-# **Oii! Eu sou a Apoliana Lívia, sou estudante de Desenvolvimento de Sistemas        
+# **Oii! Eu sou a Apoliana Lívia, sou estudante de Desenvolvimento de Sistemas**       
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apolianalivia&count_private=true&show_icons=true&theme=jolly&locale=pt-br&include_all_commits=true)](https://github.com/apolianalivia/github-readme-stats)
  <div style="display: inline_block"><br>
