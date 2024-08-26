@@ -1,4 +1,4 @@
-# **Oii! Eu sou a Apoliana Lívia, sou estudante de Desenvolvimento de Sistemas**       
+# **Oii! Eu sou a Apoliana Lívia, estudante de Desenvolvimento de Sistemas**       
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Apoli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
