@@ -19,7 +19,3 @@
   <img src="https://streak-stats.demolab.com?user=apolianalivia&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apolianalivia&radius=16&theme=vue&area=true&order=5&bg_color=Black&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-<div style="display: inline_block">
- <img align="right" alt="Apoli-Gif" height="190" width="190" src="https://github.com/apolianalivia/apolianalivia/assets/159330898/3fb46b41-4a46-44bb-8994-ae349af4f2a9">
-</div>
